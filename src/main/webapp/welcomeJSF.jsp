@@ -19,7 +19,7 @@
         </head>
         <body>
             <h:form>
-                <h1><h:outputText value="Hola Mundo !! - COMMIT PARA EL FORK el codigo con Jenkins   - 22 Julio 2025 15:41pm" /></h1>
+                <h1><h:outputText value="Hola Mundo !! -   PIPELINE DESDE DOCKERHUB - 28 Julio 2025 20:30pm" /></h1>
                 <br/>
                 <h:commandLink action="#{product.listSetup}" value="All Products" id="linkProds" />
                 <br/>
